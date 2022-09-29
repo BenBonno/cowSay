@@ -1,8 +1,7 @@
 const objectExo = {
 
-    "campusName": "ToulouseChocolatine"
+    campusName: "Toulouse_Chocolatine",
+    diameter: 112
 }
 
-module.exports = {
-    "campusName": "campusName"
-}
+module.exports = objectExo;

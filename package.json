@@ -17,6 +17,7 @@
     "url": "https://github.com/BenBonno/cowSay/issues"
   },
   "homepage": "https://github.com/BenBonno/cowSay#readme",
+  "type": "commonjs",
   "dependencies": {
     "cowsay": "^1.5.0"
   }

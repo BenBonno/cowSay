@@ -1,8 +1,8 @@
-const object = require(".information")
+const tintin = require("./information.js")
 const cowsay = require("cowsay");
 
 console.log(cowsay.say({
-    text: ì'm working in ${object.campusName}`},
-    e : "oo",
-    T: "U "
+    text: `I'm coding in ${tintin.campusName} and i like it!`,
+    e: "xX",
+    T: "||"
 }));
